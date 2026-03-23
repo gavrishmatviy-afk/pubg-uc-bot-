@@ -12,8 +12,8 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemo
 # Замініть на ваш токен бота
 BOT_TOKEN = "8754394339:AAHL7pkjwYqX1eTQHn7gTQ9r5NDrBZgOU68"
 # Замініть на ID адміністраторів
-ADMIN_ID_1 = 5218516711  # Перший адміністратор
-ADMIN_ID_2 = 5561735675  # Другий адміністратор
+ADMIN_ID_1 = 5561735675  # Перший адміністратор
+ADMIN_ID_2 = 5218516711  # Другий адміністратор
 
 # Ініціалізація бота
 bot = Bot(token=BOT_TOKEN)
